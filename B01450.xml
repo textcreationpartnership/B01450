@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the sufferings and dying words of several French Protestants, under this present persecution as it was received from the hands of several Protestant ministers, who arrived lately in England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01450</idno>
+            <idno type="STC">Wing A396</idno>
+            <idno type="STC">ESTC R204267</idno>
+            <idno type="EEBO-CITATION">53981437</idno>
+            <idno type="OCLC">ocm 53981437</idno>
+            <idno type="VID">180084</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01450)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180084)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2813:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the sufferings and dying words of several French Protestants, under this present persecution as it was received from the hands of several Protestant ministers, who arrived lately in England.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed ;</pubPlace>
+                  <pubPlace>and Re-printed at Edinburgh :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Huguenots --  France --  Early works to 1800.</term>
+               <term>Persecution --  France --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180084:1" rendition="simple:additions"/>
+            <p>AN ACCOUNT OF THE Sufferings AND <hi>Dying Words,</hi> Of Several <hi>French</hi> Proteſtants, Under this preſent
+<hi>PERSEC<g ref="char:V">Ʋ</g>TION</hi> As it was received from the Hands of ſeveral
+<hi>Proteſtant</hi> Miniſters, who Arrived lately in <hi>England.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed, and Re-printed at <hi>Edinburgh</hi>
+1699</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:180084:2"/>
+            <pb n="3" facs="tcp:180084:2"/>
+            <head>A Brief Account of the <hi>Suffer<g ref="char:EOLhyphen"/>ings</hi> and <hi>Laſt Words</hi> of ſeveral <hi>French Prote<g ref="char:EOLhyphen"/>ſtants,</hi> under this preſent Per<g ref="char:EOLhyphen"/>ſecution.</head>
+            <p>
+               <hi>MOnſieur de Hamlin</hi> (a young Gentleman of very good Parentage, and very Zealous in the <hi>Proteſtant</hi> Religion) living long privately in his own Houſe, with an other Gentleman, and his Hoſt, whom he inſtructed in all the Principles of the <hi>Pro<g ref="char:EOLhyphen"/>teſtant</hi> Religion; at laſt they were Ap<g ref="char:EOLhyphen"/>prehended, and caſt into Priſon: And while they lay there, in came a Prieſt, with all his Accoutrements, to ſay
+<hi>Maſs:</hi> But <hi>Monſieur de Hamlin,</hi> inflamed with Zeal againſt ſuch Ridiculous <hi>Fopperies,</hi> went and overthrew the Chalice and Candle<g ref="char:EOLhyphen"/>ſticks, ſaying, <hi>Is it not enough to you to Blaſ<g ref="char:EOLhyphen"/>pheme God in the Church, but you muſt alſo polute the Priſon with your Idolatries?</hi> The Jayler ſeeing this, fell upon him, and beat
+<pb n="4" facs="tcp:180084:3"/>him moſt deſperately, &amp; alſo removed him into a Dungeon, loading him with Irons, which made his Legs to ſwell, where he lay Eight Days in a moſt pitiful manner: The other Gentleman, and his Hoſt terrifi<g ref="char:EOLhyphen"/>ed with the Priſon, and Fear of Death, Re<g ref="char:EOLhyphen"/>nounced their Profeſſion. Whereupon M. <hi>de Hamlin</hi> ſaid to the other Gentleman,
+<q rend="margQuotes">O Unhappy, and more than Miſerable Man! is it poſſible that you ſhall be ſo Fooliſh, as to ſave your Life for a few Days? Doeſt thou think Eternal Life ſo mean a thing, as to prefer the Preſent Life before it? Remember Man, that the ſufferings of this preſent Life are not comparable with the Glory that ſhall be revealed: If thou ſuffer with him thou ſhalt alſo Reign with him. Thou can'ſt not anſwer for what thou haſt al<g ref="char:EOLhyphen"/>ready done; yet the Gate of Mercy is not quite ſhut: Heap not Sin upon Sin, leſt thou epenteſt when it is too late, and be an Example to all Apoſtates.</q> Having ended his Speech, the other young Gentleman with the Prieſt going out of Priſon; The Prieſt informed grievouſly a<g ref="char:EOLhyphen"/>gainſt <pb n="5" facs="tcp:180084:3"/>M.
+<hi>de Hamlin:</hi> And he being Con<g ref="char:EOLhyphen"/>demned, and carried to the place of Exe<g ref="char:EOLhyphen"/>cution, and there tyed to the Stake, he cryed out with a loud Voice,
+<hi>Lord Jeſus receive my Spirit. How long ſhall Darkneſs overwhelm this Realm? How long wilt Thou ſuffer the Tyranny of theſe wicked Men?</hi> They endeavoured to drown his Voice with the Sound of Trumpets, but in the mideſt of the Flame he Prayed and Ex<g ref="char:EOLhyphen"/>horted the People to Conſtancy and Truth. The Fire was ſlow, therefore put him to the greater Torment: But that which moſt troubled him, was the Clamorous and Wicked Men ſet on by the
+<hi>Jeſuites</hi> and <hi>Friers,</hi> who continually cryed, <hi>Turn thou Heretick, call on our Lady, ſay,</hi> Salve Regina. To whom he Anſwered,
+<hi>Depart from me, and trouble me not, ye Meſſengers of Satan: For the Fool hath ſaid in his Heart, there is not a God: The Men of Sin have hardened them<g ref="char:EOLhyphen"/>ſelves to do Evil continually; But thoſe that Suffer with Chriſt ſhall alſo Reign with Him.</hi> So he render'd up his Soul unto God in the midſt of the Flames, At <hi>Maſcon</hi> in <hi>France,</hi> the 17 of
+<hi>April</hi> 1697.</p>
+            <pb n="6" facs="tcp:180084:4"/>
+            <p>TWO Miniſters who fled out of <hi>France</hi> in the time of the late Per<g ref="char:EOLhyphen"/>ſecution, into <hi>Germany,</hi> where they continued a long time: But returning to <hi>Valence</hi> in <hi>France</hi> to ſee ſome particular Friends; thinking to paſs unknown; They being diſcovered, and caſt into Priſon, the Judge commanded them to be brought before him; where they were accuſed of Inſtructing and Encouraging the
+<hi>Proteſt<g ref="char:EOLhyphen"/>ants</hi> to continue in their Profeſſion: To whom the Judge ſaid, <hi>Are ye the Authors of this Sedition? Are ye the Cauſe that ſo many loſe their Lives? By God I ſwear, that ye ſhall ſuffer for them all, and ſhall ſuffer the Torments ye encourage them to undergo,</hi> To whom they anſwered, <hi>Thy Sentence we joyfully embrace; and we are moſt willing to be Sacrificed for our Brethren, and reſolve to ſhed our deareſt Blood in the Profeſſion of the</hi> Proteſtant Religion,
+<hi>and unanimouſly of<g ref="char:EOLhyphen"/>fer up our Lives for the ſame.</hi> The Judge being much in rage with this ſtout Anſwer, commanded their ſides to be Lanced with Knives, till their Bones were laid open: <pb n="7" facs="tcp:180084:4"/>But the Holy Miniſters preached the Li<g ref="char:EOLhyphen"/>ving God<g ref="char:punc">▪</g> and the Lord Jeſus Chriſt, and exhorted the People to continue in the <hi>Proteſtant</hi> Religion, and to Abſtain from the Idolatrous Worſhip of the Church of
+<hi>Rome.</hi> Upon which the Judge comman<g ref="char:EOLhyphen"/>ded to ſtrick out their Teeth, that their ſpeech might be hindred. His Orders were obeyed, and their Faces alſo buffetted, their Eye lids torn off, their Cheeks Cut and Gaſht with Knives, the Skin of their Beards by degrees pluck'd off, and their comely countenances wholly defaced and deformed. Yet for all this, the Meek and Patient Miniſters and Marryers ſaid only this; <hi>We thank thee, O Sir, that thou haſt opened to us ſo many Mouths to Preach our Lord and Saviour Jeſus Chriſt, and to Con<g ref="char:EOLhyphen"/>feſs the Truth of His reformed Religion: For as many Wounds as we have, ſo many Mouths have we to Bleſs and Praiſe God, and Jeſus Chriſt our Redeemer, for giving us Patience and Conſtancy in the Truth.</hi> The Judge being enraged with their Conſtancy, or<g ref="char:EOLhyphen"/>dered the one called <hi>Monſieur Perued,</hi> to go back to Priſon, from the place of Exe<g ref="char:EOLhyphen"/>cution, <pb n="8" facs="tcp:180084:5"/>&amp; caſt in a Dungeon, &amp; there Strang<g ref="char:EOLhyphen"/>led: And the others Body to be teared and rent in Peices with a Hurdle and an I<g ref="char:EOLhyphen"/>ron Grate: But he being no way affright<g ref="char:EOLhyphen"/>ed or daunted therewith, did ſing. <hi>The Lord is my helper, I will not fear what Man can do unto me; I will fear no evil, becauſe Thou, O Lord, art with me. As for thee, O unjuſt Judge! I appeal from this thy Ty<g ref="char:EOLhyphen"/>rany, to the Righteous Throne and Judgment Seat of Jeſus Chriſt the Righteous Judge; where it will appear ye are but Bloody Ty<g ref="char:EOLhyphen"/>rants to inflict ſuch horrid Tortures upon us innocent Proteſtants.</hi> Then coming to the place of Execution, the Judge cried to the Hangman or Executioner, <hi>Diſpatch the Heretick Rebel:</hi> He nothing troubled therewith ſang aloud,</p>
+            <q>
+               <l>— O Lord I yeild to Thee,</l>
+               <l>To whom the Death of all Thy Saints</l>
+               <l>We know moſt dear to be.</l>
+            </q>
+            <p>Thus perſwading and encouraging the People to dye in the like Cauſe, he with a chearfull countenance, gave up his Body to the Torments, and his Soul un<g ref="char:EOLhyphen"/>to God: And is one of theſe before the <pb n="9" facs="tcp:180084:5"/>Altar that cries, <hi>How long,</hi> &amp;c. At <hi>Valence</hi> in <hi>France</hi> the 27 of <hi>June</hi>
+1698.</p>
+            <p>ANother young Gentleman at <hi>Calis,</hi> who upon profeſſing himſelf to be a <hi>Proteſtant,</hi> was apprehended and caſt into Priſon. And being brought be<g ref="char:EOLhyphen"/>fore the Judge, boldly acknowledged, He believed in Chriſt, and in the <hi>Proteſtant</hi> Reformed Religion, and valued not what they could inflict on him for his Profeſſion. Then the Judge called for ſeveral Tortures, and all manner of Torments to be inflict<g ref="char:EOLhyphen"/>ed on him. To whom he ſaid, <hi>It would be a Loſs and Damnage to me, if I did not ſuffer diverſe Torments and Puniſhments for Chriſt in his Cauſe.</hi> The Sheriff more incenſed<g ref="char:punc">▪</g> hereby, commanded all the Torments uſual to be inflicted on him; with which he was nothing diſturbed, but ſung. <hi>The Lord is my Helper, I will not fear what Men can do unto me; I will fear no Evil, becauſe Thou art with me, O Lord.</hi> Then he blamed the Tormentors for favouring of him, and deſired them to do their outmoſt. The Sheriff not prevailing that way. <pb n="10" facs="tcp:180084:6"/>He, with ſome Jeſuits and Prieſts, though by Flattery to Seduce him. promiſing him Preferment, Riches, and Honour, if he would deny his Profeſſion: But he dreed<g ref="char:EOLhyphen"/>ed them as Fooliſh and Mad, ſaying, <hi>I look for greater Preferment in Heaven than ye can give me here on Earth.</hi> He was then Condemned, and carried out of the City to be Burnt; Multitudes of Friends and others, following him, ſome Kiſſing him; Weeping for him, and entreating him with Tears to pity himſelf: To whom he An<g ref="char:EOLhyphen"/>ſwered, <hi>Weep not I pray you for me, but weep for the Enemies of God, who fight againſt the</hi> Proteſtants: <hi>Weep, I ſay, for them who prepare a Fire for us, purchaſing Hell Fire for themſelves in the Day of Vengence. Ceaſe, I pray you, thus to moleſt my ſettled and quiet Mind: For truely, for the Name of Chriſt, and the</hi> Proteſtant <hi>Reformed Religion, I am ready and willing to ſuffer a Thouſand Deaths.</hi> Others perſwaded him to deny his Religion with his Mouth, and to keep his Conſcience to himſelf. To which he An<g ref="char:EOLhyphen"/>ſwered, O <hi>Fools! my Tongue, which by God</hi>'s
+<hi>Goodneſs I have, cannot be brought to deny <pb n="11" facs="tcp:180084:6"/>the
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame: For with the Heart we believe unto Righteouſneſs, and with the Tongue we Confeſs unto Salvation.</hi> And thus perſwad<g ref="char:EOLhyphen"/>ing and encouraging the People to be will<g ref="char:EOLhyphen"/>ing to Dye in the like Cauſe, and not to forſake their Profeſſion for earthly Enjoy<g ref="char:EOLhyphen"/>ments; with an unparalelled Countenance; he gave up his Body to the Flames, <hi>March.</hi> 18. 1698.</p>
+            <p>ANother young Gentleman, a Soldier in the Gariſon at
+<hi>Dunkirk,</hi> forſook all Company, gave himſelf to Faſting and Prayer, Meditation and Reading of the Holy Scripture; Coming into the City upon a Holy-day, and ſeeing the People at their Paſtimes, and other Ceremonial Follies, declared himſelf a <hi>Proteſtant,</hi> and cried, Away with ſuch Ridiculous Idola<g ref="char:EOLhyphen"/>trous Foppries: For God will not be mocked with your Superſtitions; For <hi>Theſe that Worſhip Him, muſt Worſhip Him in Spirit and in Truth.</hi> He was apprehend<g ref="char:EOLhyphen"/>ed, and tormented with diverſe Torments, which he regarded not, ſaying,
+<q rend="margQuotes">There is nothing in my Mind that can be com<g ref="char:EOLhyphen"/>pared <pb n="12" facs="tcp:180084:7"/>to the Kingdom of Heaven: Nei<g ref="char:EOLhyphen"/>ther is all the World, if it were weight<g ref="char:EOLhyphen"/>ed in a Ballance, comparable to the price of one Soul. And further ſaid, <hi>Who can ſeparate us from the Love of Chriſt? Can Tribulation or Anguiſh?</hi> And again, I have learned of my Lord Jeſus Chriſt, not to fear them that can kill the Body, and have no power to kill the Soul. Having endured a Multitude of Tor<g ref="char:EOLhyphen"/>ments, he received Sentence of Death:</q> And at the place of Execution he ſaid
+<q rend="margQuotes">I give Thee Thanks, O my Lord God, who haſt accepted me to be a Partaker of Thy Death. and has not ſuffered me to be Devoured of my fierce Enemies, Satan &amp; a ſubtile World, but haſt kept me conſtant in Thy true Faith unto the end.</q> And ſo he loſt his Head, but found a Crown of Glory; <hi>Dunkirk, Aguſt</hi> 3. 1698.</p>
+            <p>ANother young Gentleman, ſeeing the Perſecution of the
+<hi>Proteſtants</hi> in <hi>Piedmont,</hi> being of eminent Religious Pa<g ref="char:EOLhyphen"/>rents, and he himſelf being moſt Zealous in the Proteſtant Religion: His Parents <pb n="13" facs="tcp:180084:7"/>fearing, that his Zeal might make him Guilty of his own Death, keeped him cloſs at their Countrey Houſe, a great way from the City of <hi>Turin.</hi> But he hearing of the great many perſecutions of the <hi>Pro<g ref="char:EOLhyphen"/>teſtants,</hi> both in City and Countrey, de<g ref="char:EOLhyphen"/>taſting any further delay, went all along through By-ways, and much Danger and Wearineſs, toward the City, where he came in the Morning: And going be<g ref="char:EOLhyphen"/>fore the Judge, ſaid,
+<q rend="margQuotes">What a Shame is it for you, thus wickedly to take away Mens Lives by all manner of Cruelties? And alſo endeavour to deſtroy their Souls, by compelling them to deny their Reli<g ref="char:EOLhyphen"/>gion? Would you know. O ignorant Souls, what I am? Behold I am a
+<hi>Pro<g ref="char:EOLhyphen"/>teſtant,</hi> and an Enemy to your Deviliſh Sa<g ref="char:EOLhyphen"/>crifices: I ſcorne and deſpiſe your Idols, and tread them under my Feet; and ac<g ref="char:EOLhyphen"/>knowledge only God Almighty, the Crea<g ref="char:EOLhyphen"/>tor of Heaven &amp; Earth, &amp; <hi>Jeſus Chriſt His only Son our Lord:</hi> But for your prayers to <hi>Saints</hi> and your deviliſh dead Idols, which are the work of Mens hands, none but Fools will owne and worſhip the ſame, <hi>&amp;c.</hi> 
+                  <pb n="14" facs="tcp:180084:8"/>Come on therefore, and let the Hang<g ref="char:EOLhyphen"/>man. Burn, Cut, and Mangle this poor Mortal Carcaſe; it is very eaſie to break and deſtroy a weak and brittle periſh<g ref="char:EOLhyphen"/>ing Body, but the <hi>Mind</hi> and <hi>Soul,</hi> you cannot touch with all that you can do,</q> The Judge enraged
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herewith, ſaid to the Executioner, Take him and let him feel the power of our Torments, and know what we can do:
+<q rend="margQuotes">Yet, O ſturdy youth. I would fain have thee before thou dy<g ref="char:EOLhyphen"/>eſt, to Recant this thy Wickedneſs, and to ſave thy ſelf from a wretched Death Conſider what Pleaſures thou mayeſt enjoy in the Houſe of thy honourable Parents: Conſider the Lamentations and Tears of thy miſerable Family and Re<g ref="char:EOLhyphen"/>lations, which by thy Perverſeneſs will be brought to Ruine: Conſider thou art in thy youth, in the flower of thine Age, in the way to Honour and Preferment, by an Honourable Marriage agreeable to thy Quality and Eſtate; do not theſe gliſtering Glories, and the Delights of this World move thee? Does not the Terror and extream Grief of thy dear <pb n="15" facs="tcp:180084:8"/>Parents incline thee to pity thy ſelf and them? Yea, who is there doth not la<g ref="char:EOLhyphen"/>ment thy madneſs and folly. If this doth not prevail, conſider the terrible Death that thou art like to ſuffer: Con<g ref="char:EOLhyphen"/>ſider what variety of Torments are prepa<g ref="char:EOLhyphen"/>red for thee; for thou ſhalt either be Be<g ref="char:EOLhyphen"/>headed by the Sword, or thou ſhalt be torn in pieces by the Teeth of wilde Beaſts; or elſe thou ſhalt be thrown alive into the burning Flames. Now, how eaſie and ſmall a matter is required of thee to avoid all this puniſhment, and take a little Incenſe between thy Fingers, and put into the cenſure in honour of the
+<hi>Ro<g ref="char:EOLhyphen"/>miſh</hi> Religion, thou ſhalt be ſet free pro<g ref="char:EOLhyphen"/>miſing always to deſert from the <hi>Hugon<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Religion.</q> When he heard him thus ſpeak: being extreamly moved, he ſpit in the Tyrant's Face, and preſently threw down the Cenſure, and kicked the Incenſe, and ſaid; <hi>Away with your Idols out of my ſight:</hi> Whereupon the judge commanded the Hangman, without further delay to pluck his Limbs out of joint, and then with the Claws of wild Beaſts, tore off the <pb n="16" facs="tcp:180084:9"/>fleſh from his Bo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es; while he not in the leaſt daunted with their cruel Torments, fell a ſinging and praiſing in this manner<g ref="char:punc">▪</g> 
+               <hi>O Lord, I will never forget Thy Goodneſs and Mercy; what a pleaſure is it, O Lord Jeſus, to remember thy triumphant Victories, who by ſuffering haſt attained the height of Glory?</hi> Thus with great Conſtancy and Courage he continued joyful, and chearfully ſang Praiſes to God, when he was all overſtain'd and imbrewed in his own Blood, and cruel<g ref="char:EOLhyphen"/>ly tormented in all parts of his Body. Then they proceeded to the laſt Torments, which was to caſt him alive into the burning Flames; where he dyed a joyfull Marty<g ref="char:punc">▪</g> ſinging Praiſes and Hallelujah's to God.
+<hi>Tu<g ref="char:EOLhyphen"/>rin October</hi> 27. 1698.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
